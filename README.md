@@ -18,3 +18,4 @@ manage the time count, providing a simple and efficient experience.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 ## 📂 Project Link
+https://stopwatchfabg.netlify.app/
